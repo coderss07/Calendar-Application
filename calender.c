@@ -510,9 +510,6 @@ int main()
     printf("************************* Mini Project *************************\n\n");
     printf("\t\tCALENDER APPLICATION USING C LANGUAGE\n\n\t\t\t      By\n\n");
     printf("\t\t    Sarthak Sharma, 1961152\n");
-    printf("\t\t    Sarthak Durgapal, 1961151\n");
-    printf("\t\t    Shubham Joshi, 1961161\n");
-    printf("\t\t    Sawan Kumar, 1961155\n\n");
     printf("\t\t  PROJECT MENTOR: Dr.Naveen Tewari\n\n");
     printf("\t\t  DEBUGGING CREDIT : Sarthak Sharma\n\n");
     printf("****************************************************************");
